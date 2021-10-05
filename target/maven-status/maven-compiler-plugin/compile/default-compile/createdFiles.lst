@@ -1,0 +1,7 @@
+pages\AddUserPage.class
+utilites\ReportsGenerator.class
+pages\UsersPage.class
+pages\LoginPage.class
+pages\DashboardPage.class
+pages\UserDetailsPage.class
+utilites\ExcelUtility.class
